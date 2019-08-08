@@ -1,4 +1,4 @@
-# vuex-exercicios
+# rotas-exercicios
 
 ## Project setup
 ```
